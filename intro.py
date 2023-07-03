@@ -1,0 +1,6 @@
+print("Welcome to python programming")
+print(6+7)
+print("6+7")
+print('My name is Maggie')
+print(50/10)
+print(27*3)
